@@ -1,3 +1,4 @@
+# Approx 140000 datapoints
 Project Description
 This project focuses on analyzing temperature trends and developing predictive models for 15 major cities in Punjab, Pakistan, over the period from 2000 to 2024. The study aims to understand the impacts of climate change, particularly how temperature trends and unexpected rainfall patterns may affect the region, which is known for its dense population and susceptibility to climate-related changes.
 Key objectives include:
